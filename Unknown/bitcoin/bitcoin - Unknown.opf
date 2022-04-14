@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">4e736018-1213-42b3-a79d-4094c0bd460e</dc:identifier>
-        <dc:title>El arte de la intrusi├│n (Kevin D. Mitnick, William L. Sim├│n)</dc:title>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">666addd8-8a76-48dc-9265-8872026aa0cc</dc:identifier>
+        <dc:title>bitcoin</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.38.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2021-11-10T03:02:57+00:00"/>
-        <meta name="calibre:title_sort" content="El arte de la intrusi├│n (Kevin D. Mitnick, William L. Sim├│n)"/>
+        <meta name="calibre:timestamp" content="2022-04-10T05:05:49+00:00"/>
+        <meta name="calibre:title_sort" content="bitcoin"/>
     </metadata>
     <guide>
-        <reference type="cover" title="Cover" href="El arte de la intrusi├│n (Kevin D. Mitnick, William L. Sim├│n) - Unknown.jpg"/>
+        <reference type="cover" title="Cover" href="bitcoin - Unknown.jpg"/>
     </guide>
 </package>

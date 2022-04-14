@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca90560d-5284-42bf-958d-dc95fd1a6c0c</dc:identifier>
+        <dc:title>desarrollo del lenguaje</dc:title>
+        <dc:creator opf:file-as="owens, robert" opf:role="aut">robert owens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.38.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-21T01:20:22+00:00</dc:date>
+        <dc:description>()</dc:description>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;robert owens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-10T05:05:49+00:00"/>
+        <meta name="calibre:title_sort" content="desarrollo del lenguaje"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="desarrollo del lenguaje - robert owens.jpg"/>
+    </guide>
+</package>
