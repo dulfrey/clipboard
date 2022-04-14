@@ -19,3 +19,5 @@
 [latin r t transformation](https://github.com/dulfrey/clipboard/raw/master/paper/Comparative%20r%20t%20transformation%20in%20Latin/Comparative%20r%20t%20transformation%20in%20Latin%20-%20paper.mobi)
 
 [lenguaje](https://github.com/dulfrey/clipboard/raw/master/paper/lenguaje/lenguaje%20-%20paper.mobi)
+
+[La divina commedia - dante](https://github.com/dulfrey/clipboard/raw/master/dante/La%20divina%20commedia%20-%20Dante%20Alighieri%20-%20MOBI.mobi)
