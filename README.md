@@ -1,5 +1,7 @@
 # clipboard
 
+[Kamasutra - Vatsyayana](https://github.com/dulfrey/clipboard/raw/master/kamasutra/kamasutra.mobi)
+
 [Filosofía de tocador - sade](https://github.com/dulfrey/clipboard/raw/master/marquis%2C%20Sade%20le/La%20Philosophie%20dans%20le%20boudoir/La%20Philosophie%20dans%20le%20boudoir%20-%20Sade%20le%20marquis%20(de).mobi)
 
 
@@ -29,4 +31,7 @@
 [Lider 101 - Maxwell (epub)](https://github.com/dulfrey/clipboard/raw/master/Maxwell%20John%20C%20(3)/Maxwell%20John%20C%20-%20Owner.epub)
 
 [Bhagavad Gita - Anonimo](https://github.com/dulfrey/clipboard/raw/master/Bhagavad%20Gita%20(4)/Bhagavad%20Gita%20-%20Anonimo.mobi)
+
+
+
 
