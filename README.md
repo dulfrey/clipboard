@@ -27,3 +27,6 @@
 [Lider 101 - Maxwell (mobi)](https://github.com/dulfrey/clipboard/raw/master/Maxwell%20John%20C%20(3)/Maxwell%20John%20C%20-%20Owner.mobi)
 
 [Lider 101 - Maxwell (epub)](https://github.com/dulfrey/clipboard/raw/master/Maxwell%20John%20C%20(3)/Maxwell%20John%20C%20-%20Owner.epub)
+
+[Bhagavad Gita - Anonimo](https://github.com/dulfrey/clipboard/raw/master/Bhagavad%20Gita%20(4)/Bhagavad%20Gita%20-%20Anonimo.mobi)
+
