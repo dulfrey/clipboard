@@ -37,6 +37,7 @@ https://github.com/dulfrey/clipboard/raw/master/Baltasar%20Gracian/El%20arte%20d
 
 [Bhagavad Gita - Anonimo](https://github.com/dulfrey/clipboard/raw/master/Bhagavad%20Gita%20(4)/Bhagavad%20Gita%20-%20Anonimo.mobi)
 
+[Marketing - Amazon FBA](https://github.com/dulfrey/clipboard/blob/master/marketing/Affiliate%20MarketingAndAmazonFBA%20-%20Ezeanaka,%20Michael.mobi?raw=true)
 
 
 
