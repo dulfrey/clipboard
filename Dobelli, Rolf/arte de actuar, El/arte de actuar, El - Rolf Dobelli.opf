@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ffe95ab-52d5-4cde-9b5d-cc05781353ef</dc:identifier>
+        <dc:title>El arte de actuar</dc:title>
+        <dc:creator opf:file-as="Dobelli, Rolf" opf:role="aut">Rolf Dobelli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.38.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;«En 2009 me di cuenta de que, en paralelo con mi trabajo como novelista, había completado un auténtico estudio de psicología social y cognitiva. &lt;/span&gt;&lt;br style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Para evitar apuestas frívolas con las ganancias acumuladas a lo largo de mi carrera literaria, empecé a confeccionar una lista de esos errores cognitivos sistemáticos, junto con notas y anécdotas personales… Pronto me di cuenta también de que semejante colección de escollos no solo resultaba útil a la hora de decidir en qué invertir, sino también para resolver asuntos comerciales y personales. Armado con mi lista, no pude evitar su atractivo… y especular con la posibilidad de obtener ventajas en mis negocios. Ahora disponía de categorías, términos y explicaciones con los que defenderme de la irracionalidad. &lt;/span&gt;&lt;br style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;La incapacidad de pensar con claridad, o lo que los expertos denominan un «error cognitivo», constituye una desviación sistemática de la lógica, del pensamiento y de la conducta óptima, racional y razonable. Con «sistemática» quiero decir que estos no se limitan a ser errores de juicio ocasionales sino más bien errores rutinarios, obstáculos frente a la lógica con los que tropezamos una y otra vez, repitiendo pautas a través de las generaciones y los siglos.» &lt;/span&gt;&lt;br style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788490695142</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01JP20HQ0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>0</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rolf Dobelli&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-03-11T14:52:03+00:00"/>
+        <meta name="calibre:title_sort" content="arte de actuar, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="arte de actuar, El - Rolf Dobelli.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16c56de2-e2f8-411f-adf1-18b8142c0bde</dc:identifier>
+        <dc:title>Bhagavad Gita</dc:title>
+        <dc:creator opf:file-as="Anónimo" opf:role="aut">Anónimo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.7.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0300-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Este texto forma parte del libro &lt;small&gt;VI&lt;/small&gt; del &lt;cite&gt;Mahabharata&lt;/cite&gt;, y fue escrito probablemente en los siglos&amp;nbsp;&lt;small&gt;I&lt;/small&gt; o &lt;small&gt;II&lt;/small&gt; a. C. No se conocen sus autores. Se presenta como un diálogo entre Arjuna y Krisna, en el campo de batalla, justo cuando va a empezar la guerra entre los Pandavas y los Kauravas. El miedo a la batalla inicia un diálogo a través del cual se traza una sinopsis del pensamiento y experiencia religiosa de la India, que aglutina los caminos de la acción, la devoción y el conocimiento.&lt;/p&gt;&lt;p&gt;A Juan Mascaró se debe una de las traducciones más célebres de la &lt;cite&gt;Bhagavad Gita&lt;/cite&gt;, que aquí presentamos en versión castellana de José Manuel Abeleira frente al sánscrito original.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">30878</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Referencia</dc:subject>
+        <dc:subject>Espiritualidad</dc:subject>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anónimo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Penguin Clásicos"/>
+        <meta name="calibre:series_index" content="0"/>
+        <meta name="calibre:timestamp" content="2022-11-04T03:35:32.649730+00:00"/>
+        <meta name="calibre:title_sort" content="Bhagavad Gita"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

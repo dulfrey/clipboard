@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7eced2e2-d924-4528-b5f5-3bd0583b85f4</dc:identifier>
+        <dc:title>Comparative r t transformation in Latin</dc:title>
+        <dc:creator opf:file-as="paper" opf:role="aut">paper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.38.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;paper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-10T05:05:49+00:00"/>
+        <meta name="calibre:title_sort" content="Comparative r t transformation in Latin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Comparative r t transformation in Latin - paper.jpg"/>
+    </guide>
+</package>

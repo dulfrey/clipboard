@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3c69ae8-a204-4e5a-8781-cc17af447d6d</dc:identifier>
+        <dc:title>La Philosophie dans le boudoir</dc:title>
+        <dc:creator opf:file-as="marquis, Sade le" opf:role="aut">Sade le marquis (de)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.38.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-24T14:36:04+00:00</dc:date>
+        <dc:identifier opf:scheme="DOI">9782081256897</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sade le marquis (de)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-03-11T14:54:34+00:00"/>
+        <meta name="calibre:title_sort" content="La Philosophie dans le boudoir"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="La Philosophie dans le boudoir - Sade le marquis (de).jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2af23799-f77c-437d-a214-a11eea2d3aed</dc:identifier>
+        <dc:title>El arte de la prudencia</dc:title>
+        <dc:creator opf:file-as="Gracián, Baltasar" opf:role="aut">Baltasar Gracián</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.7.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1647-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Bajo la forma de aforismos, Baltasar Gracián dio forma a una de las obras más importantes del Siglo de Oro, que aún hoy, cuatro siglos más tarde, sigue estando vigente en su objetivo último de regir el buen gobierno de las personas. Gracián prescinde de la argumentación a base de ejemplos que había dominado en la retórica medieval y esconde su propuesta con frases basadas en la realidad de los hechos y la utilidad de las acciones. Un clásico más que moderno. Baltasar Gracián fue jesuita, pensador y escritor barroco, doctísimo autor y maestro del estilo conceptista. Su ingenio crítico y afán moralista están presentes en toda su obra.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">37952</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baltasar Gracián&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-11-04T05:20:20.325202+00:00"/>
+        <meta name="calibre:title_sort" content="El arte de la prudencia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05b7efc1-7924-4d14-81f8-c1093689048e</dc:identifier>
+        <dc:title>¿quien domina el mundo?</dc:title>
+        <dc:creator opf:file-as="Chomsky, Noam" opf:role="aut">Noam Chomsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.38.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-20T01:01:53+00:00</dc:date>
+        <dc:description>()</dc:description>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Noam Chomsky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-10T05:05:58+00:00"/>
+        <meta name="calibre:title_sort" content="¿quien domina el mundo?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="¿quien domina el mundo_ - Noam Chomsky.jpg"/>
+    </guide>
+</package>
