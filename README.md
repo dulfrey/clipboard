@@ -19,8 +19,6 @@ https://github.com/dulfrey/clipboard/raw/master/Baltasar%20Gracian/El%20arte%20d
 --
 [Quantum sapiens](https://github.com/dulfrey/clipboard/raw/master/UN/QUANTUM%20SAPIENS%20I%202017-02/QUANTUM%20SAPIENS%20I%202017-02%20-%20UN.mobi)
 
-[Bitcoin - white paper ](https://github.com/dulfrey/clipboard/raw/master/Unknown/bitcoin/bitcoin%20-%20Unknown.mobi)
-
 [Desarrollo de lenguaje](https://github.com/dulfrey/clipboard/raw/master/owens%2C%20robert/desarrollo%20del%20lenguaje/desarrollo%20del%20lenguaje%20-%20robert%20owens.mobi)
 
 [latin r t transformation](https://github.com/dulfrey/clipboard/raw/master/paper/Comparative%20r%20t%20transformation%20in%20Latin/Comparative%20r%20t%20transformation%20in%20Latin%20-%20paper.mobi)
@@ -38,6 +36,18 @@ https://github.com/dulfrey/clipboard/raw/master/Baltasar%20Gracian/El%20arte%20d
 [Bhagavad Gita - Anonimo](https://github.com/dulfrey/clipboard/raw/master/Bhagavad%20Gita%20(4)/Bhagavad%20Gita%20-%20Anonimo.mobi)
 
 [Marketing - Amazon FBA](https://github.com/dulfrey/clipboard/blob/master/marketing/Affiliate%20MarketingAndAmazonFBA%20-%20Ezeanaka,%20Michael.mobi?raw=true)
+
+[El método - Neil]
+(https://github.com/dulfrey/clipboard/blob/master/Neil/El%20metodo/El%20metodo%20-%20Neil.mobi)
+
+[Kybalion]
+(https://github.com/dulfrey/clipboard/blob/master/Hermes/El%20Kybalion%20(2)/El%20Kybalion%20-%20Hermes.mobi)
+
+
+[La seconda lingua]
+(https://github.com/dulfrey/clipboard/blob/master/gabriele%20palloti/la-seconda-lingua%20compress%20(1)/la-seconda-lingua%20compress%20-%20gabriele%20palloti.mobi)
+
+
 
 
 
